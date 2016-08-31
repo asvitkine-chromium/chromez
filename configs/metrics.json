@@ -21,7 +21,7 @@
   "cz-component-dash(animation)",
   "cz-component-dash(compositing)",
   "cz-issue-priority-dash",
-  "cz-milestones-dash"
+  "cz-milestones-dash",
   "cz-regression-dash",
   "cz-review-latency-dash",
   "cz-review-load-dash"
