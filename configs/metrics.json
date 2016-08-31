@@ -7,9 +7,27 @@
   {"user": "Mark", "email": "mpearson@chromium.org"},
   {"user": "Robert", "email": "rkaplow@chromium.org"}
 ],
+"components": {
+  "metrics": "Internals>Metrics"
+},
+"updateSLO": {
+  "daily": "1",
+  "weekly": "7",
+  "fortnightly": "14",
+  "monthly": "30"
+},
+"dashes": [
+  "cz-clock-dash",
+  "cz-component-dash(animation)",
+  "cz-component-dash(compositing)",
+  "cz-issue-priority-dash",
+  "cz-milestones-dash"
+  "cz-regression-dash",
+  "cz-review-latency-dash",
+  "cz-review-load-dash"
+],
 "timezones": [
   {"city": "MTV", "timezone": "US/Pacific"},
   {"city": "Montreal", "timezone": "America/New_York"}
-],
-"dashes": ["cz-milestones-dash", "cz-review-load-dash"]
+]
 }
